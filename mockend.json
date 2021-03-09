@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "superhero": "Batman", 
+    "city": "Rome", 
+    "date": "27-02-2020", 
+    "coordinates": [42.3265, -122.8756]
+}
+
